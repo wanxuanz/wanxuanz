@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wanxuanz
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning machine learning
+- 👀 I’m interested in machine learning
+- 🌱 I’m currently learning business analytics
 - 📫 reach me by zwxchloezhang@gmail.com
 
 <!---
